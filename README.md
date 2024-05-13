@@ -41,3 +41,13 @@ public class Main {
 
 <p>Este código cria um objeto File com o caminho do arquivo especificado e exibe informações sobre o caminho, o nome do arquivo e o diretório pai.</p>
 <p>Agora que você entende como lidar com caminhos de arquivos em Java, experimente manipular diferentes caminhos de arquivos para praticar e aprimorar suas habilidades!</p>
+
+<h2> Exercício 01 </h2>
+<p>💥 Fazer um programa para ler  o caminho de um arquivo .csv contendo os dados de itens vendidos. Cada item possui um nome, preço unitário e quantidade, separados por vírgula.<\p>
+<p> Você deve gerar um novo arquivo chamado "summary.csv", localizado em uma subpasta chamada "out" a partir da pasta original do arquivo de origem, contendo apenas o nome e o valor total para aquele item (preço unitário multiplicado pela quantidade), conforme exemplo.</p>
+
+<h3>Exemplo:</h3>
+<p align="center">
+  <img src="https://github.com/hildocosta/Caminho-do-Arquivo-/blob/main/imagem_01.png">
+</p>
+
